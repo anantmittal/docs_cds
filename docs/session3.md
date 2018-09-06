@@ -1,6 +1,6 @@
 ## Setup Study Environment
 
-- Please turn on the Lookback extension for [session3](https://participate.lookback.io/GxCBxm)
+- Please turn on the Lookback extension for [session3](https://participate.lookback.io/hoToqv?live)
 
 ## Goal for Session 3
 
