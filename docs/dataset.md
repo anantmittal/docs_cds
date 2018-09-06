@@ -1,9 +1,9 @@
 ## File Descriptions
 
-- [train.csv](https://drive.google.com/file/d/12pSTeQx7Zlj7J6u50JJQLxM32QV2km6w/view?usp=sharing) - the training set
-- [test.csv](https://drive.google.com/file/d/18vQroxwFpK6o8X9zSfYffKF16ynzzwac/view?usp=sharing) - the test set
-- [data_description.txt](https://drive.google.com/file/d/1Kt9fzy77OXPeO8129PCzBTHOWSsoW5lj/view?usp=sharing) - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
-- [sample_submission.csv](https://drive.google.com/file/d/1V9h0KU5npJZHBPA1Vxp7JEYoHaOF7YFy/view?usp=sharing) - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
+- [train.csv](https://s3.amazonaws.com/researchdatafiles/train.csv) - the training set
+- [test.csv](https://s3.amazonaws.com/researchdatafiles/test.csv) - the test set
+- [data_description.txt](https://s3.amazonaws.com/researchdatafiles/data_description.txt) - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
+- [sample_submission.csv](https://s3.amazonaws.com/researchdatafiles/sample_submission.csv) - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
 
 ## Data Fields
 
