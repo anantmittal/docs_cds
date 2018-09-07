@@ -7,3 +7,17 @@ Please export your jupyter notebook (.ipynb) which could be considered as a fina
 ## Upload Final Predictions
 
 Please submit your final predictions on the test dataset. An RMSE prediction number will show up after you submit.
+
+### Submission File Format
+
+The file should contain a header and have the following format:
+
+    Id,SalePrice
+    1461,169000.1
+    1462,187724.1233
+    1463,175221
+    etc.
+
+<iframe src="http://localhost:3300/" width="800" height="1500">
+  <p>Your browser does not support iframes.</p>
+</iframe>
