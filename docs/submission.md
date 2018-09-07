@@ -18,6 +18,6 @@ The file should contain a header and have the following format:
     1463,175221
     etc.
 
-<iframe src="http://localhost:3300/" width="800" height="1500">
+<iframe src="http://experimentor.mentoracademy.org:3300/" width="800" height="1500" style="border: 0px solid #eee;">
   <p>Your browser does not support iframes.</p>
 </iframe>

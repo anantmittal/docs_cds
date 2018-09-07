@@ -1,9 +1,3 @@
 # FAQs
 
-## Level1
-
-hahaha
-
-## Level2
-
-hehehe aha oho
+All FAQs will be posted here
