@@ -1,3 +1,5 @@
+* [Session 0 - Setup](session0.md)
+
 * Task Description
 
   * [Overview](overview.md)
