@@ -1,8 +1,11 @@
+# Submission
+
+Please submit your files [here](https://goo.gl/forms/l2HTUFy2QXOBIPYV2)
+
+
 ## Upload a Jupyter Notebook File
 
-Please export your jupyter notebook (.ipynb) which could be considered as a final report of what you have tried in each session and what works, what does not work.
-
-- [Upload link]()
+please submit a Jupyter Notebook file (.ipynb) which documents all the steps you have tried in each session, with executable codes and textual explanations of what works, what does not work. The notebook shoud be clear and instuctive enough that a novice data scientist could walk through, run the code and understand your work.
 
 ## Upload Final Predictions
 
@@ -17,7 +20,3 @@ The file should contain a header and have the following format:
     1462,187724.1233
     1463,175221
     etc.
-
-<iframe src="https://aprilwang.me/kaggle/index" width="800" height="1500" style="border: 0px solid #eee;">
-  <p>Your browser does not support iframes.</p>
-</iframe
