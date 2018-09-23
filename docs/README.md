@@ -2,14 +2,13 @@
 
 # Collaborative Data Science
 
-> The goal of the study is to understand how data scientists remotely collaborate and communicate using Jupyter Notebook and common collaboration tools. You will join us with 4 remote sessions during this week to work on a predictive modeling problem in groups of 3. The winner will receive up to $50 gift card for each team member. Good luck!
+> The goal of the study is to understand how data scientists remotely collaborate and communicate using Jupyter Notebook and common collaboration tools. You will join us with 2 remote sessions during this week of 2 hours each to work on a predictive modeling problem in groups of 3. 
 
 ## Timeline
 <!-- Change the timeline for each group! -->
-- Session 1: September 20, 8:00pm - 9:00pm, EST
-- Session 2: September 21, 8:00pm - 9:00pm, EST 
-- Session 3: September 22, 8:00pm - 9:00pm, EST 
-- Session 4: September 23, 8:00pm - 9:00pm, EST
+- Session 1: September 29, 8:00pm - 9:00pm, EST
+- Break:  
+- Session 2: October 6, 8:00pm - 9:00pm, EST
 
 ## Task Description
 <!-- Change the link to overview, move other mds into /unreleased for session 0 -->
@@ -32,8 +31,8 @@ We are using a remote screensharing tool to collect data. You should walkthrough
 <!-- For groups using shared environment -->
 Please use [Experimentor](https://experimentor.mentoracademy.org) for collaboratively editing Jupyter Notebooks. A detailed instruction could be find [here](howto.md). Feel free to use other tools for collaboration.
 <!-- For groups using non-shared environment -->
-Please use [Experimentor](https://experimentor.mentoracademy.org) for collaborating. A detailed instruction could be find [here](howtogit.md). Feel free to use other tools for collaboration.
+Please use [Experimentor](https://experimentor.mentoracademy.org) for collaborating. 
 
 ## Contact
 
-If you have questions about this research, you may contact [April Wang](mailto:aprilww@umich.edu), [Dr. Christopher Brooks](mailto:brooksch@umich.edu),  or [Dr. Steve Oney](mailto:soney@umich.edu).
+If you have questions about this research, you may contact [Anant Mittal](mailto:anmittal@umich.edu), or [Dr. Christopher Brooks](mailto:brooksch@umich.edu).

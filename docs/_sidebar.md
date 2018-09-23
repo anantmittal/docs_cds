@@ -2,22 +2,20 @@
 * [How to use Experimentor](howto.md)
 
 <!-- For groups using non-shared Notebook -->
-* [How to use Git in Experimentor](howtogit.md)
+<!--* [How to use Git in Experimentor](howtogit.md)-->
 
 * [Session 0 - Setup](session0.md)
 
-* Task Description
+* [Task Description](task-description.md)
 
   * [Overview](overview.md)
   * [Dataset](dataset.md)
 
-* [Session 1 - Understanding](session1.md)
+* [Session 1](session1.md)
 
-* [Session 2 - Cleaning](session2.md)
+* [Break](break.md)
 
-* [Session 3 - First Try](session3.md)
-
-* [Session 4 - Advanced Prediction](session4.md)
+* [Session 2](session2.md)
 
 * [Submission](submission.md)
 
