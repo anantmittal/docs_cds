@@ -6,9 +6,9 @@
 
 ## Timeline
 <!-- Change the timeline for each group! -->
-- Session 1: September 29, 8:00pm - 9:00pm, EST
+- Session 1: 5th November week 
 - Break:  
-- Session 2: October 6, 8:00pm - 9:00pm, EST
+- Session 2: 12th November week
 
 ## Task Description
 <!-- Change the link to overview, move other mds into /unreleased for session 0 -->
