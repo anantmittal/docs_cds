@@ -4,11 +4,7 @@
 ## Share a Notebook
 1. Sign in [Experimentor](https://experimentorx.mentoracademy.org) with your Coursera account.
 
-2. Create a notebook file.
-
-    ![](assets/create.jpg)
-
-    ![](assets/notebook.jpg)
+2. Open the `Problem Statement.ipynb` in `Problem-Statement-Folder` folder.
 
 3. Click the "Share" button. Experimentor will give you a code.
 
