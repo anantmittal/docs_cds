@@ -12,26 +12,24 @@
 
 ## Task Description
 <!-- Change the link to overview, move other mds into /unreleased for session 0 -->
-The problem description will be posted [here](overview.md) when the study starts. You should submit the following materials at the end of the study:
-
-- A final report in Jupyter Notebook (.ipynb)
-- Prediction result on the test dataset
+The problem description will be posted [here](overview.md) when the study starts. 
 
 We are using a remote screensharing tool to collect data. You should walkthrough [session 0](session0.md) before the study to install the required tools.
 
 ## Tools for Communication
 <!-- For groups using Slack -->
-**Please only use the Slack channel for communication.** Group members should not discuss with each other about the predictive modeling problem (e.g., send emails or chat online) outside the experimental session. 
+**Please use the Slack channel for communication with researchers and turn on Hangouts video conferencing in Chrome for communication with your group members throughout the sessions .** 
+
+One of the team members can share the hangouts link with the team using slack channel. 
+
+Group members should not discuss with each other about the predictive modeling problem (e.g., send emails or chat online) outside the experimental session. 
 
 <!-- For groups using Hangouts video conferencing, add url to the conferencing -->
 
-**Please turn on [Hangouts video conferencing]() in Chrome for communication throughout all the sessions.** Group members should not discuss with each other about the predictive modeling problem (e.g., send emails or chat online) outside the experimental session. 
 
 ## Tools for Collaboration
 <!-- For groups using shared environment -->
-Please use [Experimentor](https://experimentor.mentoracademy.org) for collaboratively editing Jupyter Notebooks. A detailed instruction could be find [here](howto.md). Feel free to use other tools for collaboration.
-<!-- For groups using non-shared environment -->
-Please use [Experimentor](https://experimentor.mentoracademy.org) for collaborating. 
+Please use [Experimentor](https://experimentorx.mentoracademy.org) for collaboratively editing Jupyter Notebooks. A detailed instruction could be find [here](howto.md). 
 
 ## Contact
 

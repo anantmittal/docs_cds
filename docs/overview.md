@@ -10,9 +10,11 @@ In this task, you are going to analyze the student's data and predict the week w
 
 ## Evaluation
 
-It is your job to predict the dropout week for the student. For each umich_user_id in the test set, you must predict the value of the dropout_week variable. 
+It is your job to predict the dropout week for the student. There is no separate test set provided. You can split your data into training and test set to evaluate your model.
 
 
 ### Submission
 
-Please follow the [instructions](submission.md).
+Please submit your files [here](https://goo.gl/forms/GEkrwYZK6rJdHJvG3).
+
+Please submit a Jupyter Notebook file (.ipynb) which documents all the steps you have tried in each session, with executable codes and textual explanations of what works, what does not work. The notebook shoud be clear and instuctive enough that a novice data scientist could walk through, run the code and understand your work.
